@@ -1,0 +1,6 @@
+newfile
+newfile.pub
+__pycache__/
+.env
+db/verdicts.db
+*.log

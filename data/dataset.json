@@ -1,0 +1,14 @@
+[
+  {
+    "log_file": "dependency_error.log",
+    "expected_failure_type": "dependency_error"
+  },
+  {
+    "log_file": "docker_pull_error.log",
+    "expected_failure_type": "registry_error"
+  },
+  {
+    "log_file": "test_failure.log",
+    "expected_failure_type": "test_failure"
+  }
+]
